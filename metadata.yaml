@@ -1,0 +1,41 @@
+_repo: Rumpty-Dudget-s-Tower-A-Fairy-Tale_62408
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hood, George
+    aliases:
+    - Hood, G. W.
+    - Hood, George Washington
+    - Hood, George W.
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+creator:
+  author:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: https://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_issued: '2020-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62408'
+  lccn: '24022579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- GITenberg
+title: 'Rumpty-Dudget''s Tower: A Fairy Tale'
+url: http://www.gutenberg.org/ebooks/62408
